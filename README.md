@@ -58,3 +58,15 @@ Frontend: Blade, Bootstrap 5
 Database: MySQL
 
 API Integration: CJ Dropshipping API
+
+📄 License
+
+This project is open-source and free to use for educational and personal purposes.
+
+👤 Author
+
+Talha Younas
+
+Email: talhachander50@gmail.com
+
+LinkedIn: linkedin.com/in/talha-younas-9791ba318
